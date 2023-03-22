@@ -1,0 +1,42 @@
+.navbar {
+    background-color: blueviolet;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 30px;
+}
+.card{
+    border: 2px solid black;
+    flex-direction: column;
+    height: 15vw;
+    width: 16vw;
+    margin: auto;
+    top: 50px;
+    box-shadow: 10px 10px lightblue;
+    color: black;
+}
+.card-body{
+    background-color: aquamarine;
+  }
+.container-fluid{
+    background-color: rgb(61, 185, 183);
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid black;
+}
+#Submit{
+    background-color: aliceblue;
+    color: black;
+}
+.image{
+    width: 45px;
+    height: 40px;
+    margin-left: 20px;
+}
